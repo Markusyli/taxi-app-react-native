@@ -1,0 +1,10 @@
+{
+  "order": "Tilaus",
+  "preOrder": "Ennakkotilaus",
+  "driverOrders": "Tilaukset",
+  "hello": "Terves!",
+  "pickup_point": "Noutopaikka",
+  "cancel": "Peruuta",
+  "settings": "Asetukset",
+  "logout": "Kirjaudu ulos"
+}
